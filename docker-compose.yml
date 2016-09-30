@@ -1,0 +1,11 @@
+version: '2'
+
+services:
+    json:
+        image: svendowideit/jsonresume
+        container_name: resume
+        ports:
+            - "4000:4000"
+        volumes:
+            - ".:/data"
+        command: serve
