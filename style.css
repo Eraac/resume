@@ -10,7 +10,7 @@ html {
 body {
    background: #f0f0f0;
 /*   background-image: url("http://cdn.backgroundhost.com/backgrounds/subtlepatterns/cubes.png"); */
-   background-image: url("http://cdn.backgroundhost.com/backgrounds/subtlepatterns/cross_scratches.png");
+   background-image: url("img/cross_scratches.png");
 	font: 14px 'Lato', Helvetica, sans-serif;
 	line-height: 20px;
    height: 100%;
