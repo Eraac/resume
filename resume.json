@@ -2,15 +2,15 @@
   "basics": {
     "name": "Kévin Labesse",
     "label": "Développeur",
-    "picture": "https://secure.gravatar.com/avatar/4aa696f72d91313e6bc8ca62cd6ccf56",
+    "picture": "https://s.gravatar.com/avatar/4aa696f72d91313e6bc8ca62cd6ccf56?s=512",
     "email": "kevin@labesse.me",
-    "phone": "",
+    "phone": "07.61.64.17.07",
     "website": "https://labesse.fr",
-    "summary": "Passionné de nouvelles technologies, je souhaite intégrer une formation dans le milieu de développement informatique afin d'analyser et d'élaborer les technologies de demain.",
+    "summary": "DevOps depuis plus d’un an, j’ai déjà travaillé sur AWS dans ma dernière expérience professionnelle et GCP via divers projets personnels. De nature pragmatique, j’aime aller à l’essentiel lors de résolution de problème",
     "location": {
-      "address": "",
-      "postalCode": "78955",
-      "city": "Carrières-sous-Poissy",
+      "address": "6 rue du Général Leclerc",
+      "postalCode": "93170",
+      "city": "Bagnolet",
       "countryCode": "FR",
       "region": "Île-de-France"
     },
@@ -38,7 +38,9 @@
       "highlights": [
         "API",
         "Docker",
-        "AWS"
+        "AWS",
+        "GCP",
+        "GitLab CI"
       ]
     },
     {
@@ -95,7 +97,8 @@
       "highlights": [
         "Symfony",
         "Docker",
-        "Administration système"
+        "Administration système",
+        "Swagger"
       ]
     }
   ],
@@ -151,78 +154,51 @@
       "gpa": "",
       "courses": [
         "Réseau",
-        "Linux",
-        "Microsoft Server"
+        "Linux"
       ]
     }
   ],
-  "awards": [],
-  "publications": [],
+  "awards": [
+    {
+      "title": "AWS Solution Architect",
+      "date": "mai 2017",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "CV",
+      "publisher": "",
+      "releaseDate": "09-07-2018",
+      "website": "https://docs.google.com/document/d/1K9wGulWbRqIBncfpniW1h5xw04wMPkbOJ7rpmshTdRg",
+      "summary": ""
+    }
+  ],
   "skills": [
     {
-      "name": "BACK END",
+      "name": "Back-End",
       "level": "Advanced",
       "keywords": [
         "PHP 5/7",
         "Symfony 2/3",
-        "Api Platform 2",
-        "Silex"
+        "Silex",
+        "Golang"
       ]
     },
     {
-      "name": "Devops",
-      "level": "Intermediate",
+      "name": "DevOps",
+      "level": "Junior",
       "keywords": [
+        "AWS",
+        "GCP",
         "Intégration continue",
         "Docker",
-        "Gitlab",
+        "GitLab CI",
         "Travis",
         "MySQL",
-        "Apache",
-        "Nginx"
-      ]
-    },
-    {
-      "name": "Linux",
-      "level": "Intermediate",
-      "keywords": [
-        "Sécurité",
-        "Réseau",
-        "Administration",
-        "Ligne de commande"
-      ]
-    },
-    {
-      "name": "FRONT END",
-      "level": "Beginner",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "Bootstrap",
-        "Materialize",
-        "Javascript"
-      ]
-    },
-    {
-      "name": "Logiciels",
-      "level": "",
-      "keywords": [
-        "PHPStorm",
-        "Git",
-        "Trello",
-        "MySQL Workbench",
-        "Jira",
-        "Slack"
-      ]
-    },
-    {
-      "name": "Langages / Framework",
-      "level": "",
-      "keywords": [
-        "C++14",
-        "Shell",
-        "Qt5",
-        "SFML"
+        "Nginx",
+        "Shell"
       ]
     }
   ],
@@ -233,9 +209,16 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Intermediate"
     }
   ],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Sport",
+      "keywords": [
+        "everyday"
+      ]
+    }
+  ],
   "references": []
 }
