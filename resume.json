@@ -6,7 +6,6 @@
     "email": "kevin@labesse.me",
     "phone": "07.61.64.17.07",
     "website": "https://labesse.fr",
-    "summary": "DevOps depuis plus d’un an, j’ai déjà travaillé sur AWS dans ma dernière expérience professionnelle et GCP via divers projets personnels. De nature pragmatique, j’aime aller à l’essentiel lors de résolution de problème",
     "location": {
       "address": "6 rue du Général Leclerc",
       "postalCode": "93170",
@@ -22,7 +21,7 @@
       },
       {
         "network": "Twitter",
-        "username": "@kevinlabesse",
+        "username": "@labessekevin",
         "url": "https://twitter.com/labessekevin"
       }
     ]
@@ -30,16 +29,33 @@
   "work": [
     {
       "company": "ABTasty",
-      "position": "Développeur Symfony",
+      "position": "DevOps",
       "website": "https://fr.abtasty.com/",
-      "startDate": "Octobre 2016",
+      "startDate": "Octobre 2017",
       "endDate": "",
       "summary": "Solution intuitive d'A/B testing pour optimiser son site web et ses taux de conversion",
       "highlights": [
-        "API",
         "Docker",
         "AWS",
         "GCP",
+        "GitLab CI",
+        "Golang",
+        "Terraform",
+        "Packer",
+        "Kubernetes"
+      ]
+    },
+    {
+      "company": "ABTasty",
+      "position": "Développeur Symfony",
+      "website": "https://fr.abtasty.com/",
+      "startDate": "Octobre 2016",
+      "endDate": "Septembre 2017",
+      "summary": "Solution intuitive d'A/B testing pour optimiser son site web et ses taux de conversion",
+      "highlights": [
+        "API",
+        "REST",
+        "Docker",
         "GitLab CI"
       ]
     },
